@@ -1,0 +1,24 @@
+This is a repository to track changes to current ergodox
+configuration. While I have used QMK, I've moved my entire
+configuration over to the [[http:configure.ergodox-ez.com/keyboard_layouts/new][ergodox-ez configurator]].
+
+* Versions
+  + [[http://configure.ergodox-ez.com/keyboard_layouts/kbbjaz/edit][v1.3 (Current)]]
+  + [[http://configure.ergodox-ez.com/keyboard_layouts/qnavrz/edit][v1.2]]
+  + [[http://configure.ergodox-ez.com/keyboard_layouts/kgryod/edit][Original]] (no sticky modifiers)
+
+* Some notes about this configuration
+This layout is made to work with my [[https://github.com/Seth-Rothschild/EmacsConfig][Emacs configuration]]. I
+have found that I like being able to always reach the
+spacebar and esc with either hand. Some other notes
+  + Key placement is mostly intuitive through trial and error. A keybinding is only useful if I'm able to remember it.
+  + I like my modifier keys. There are one shot layers (OSL) for Symbols, Control and Alt
+  + I moved numbers and calculator operations onto their own layer.
+  + Having a Teensy reset button ended up being very important to me.
+
+* Some things that are overdue for change
+  + It's not clear that I use the thumbpad shift keys ever.
+  + The RH symbol layout doesn't make sense
+  + The OSL 4 button on layer 0 should be a toggle
+
+
