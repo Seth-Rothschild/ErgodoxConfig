@@ -3,22 +3,33 @@ configuration. While I have used QMK, I've moved my entire
 configuration over to the [[http:configure.ergodox-ez.com/keyboard_layouts/new][ergodox-ez configurator]].
 
 * Versions
-  + [[http://configure.ergodox-ez.com/keyboard_layouts/kbbjaz/edit][v1.3 (Current)]]
+  + [[http://configure.ergodox-ez.com/keyboard_layouts/knabwa/edit][v1.4 (Current)]]
+  + [[http://configure.ergodox-ez.com/keyboard_layouts/kbbjaz/edit][v1.3]]
   + [[http://configure.ergodox-ez.com/keyboard_layouts/qnavrz/edit][v1.2]]
   + [[http://configure.ergodox-ez.com/keyboard_layouts/kgryod/edit][Original]] (no sticky modifiers)
 
 * Some notes about this configuration
-This layout is made to work with my [[https://github.com/Seth-Rothschild/EmacsConfig][Emacs configuration]]. I
-have found that I like being able to always reach the
-spacebar and esc with either hand. Some other notes
-  + Key placement is mostly intuitive through trial and error. A keybinding is only useful if I'm able to remember it.
-  + I like my modifier keys. There are one shot layers (OSL) for Symbols, Control and Alt
-  + I moved numbers and calculator operations onto their own layer.
-  + Having a Teensy reset button ended up being very important to me.
+This layout is made to work with my [[https://github.com/Seth-Rothschild/EmacsConfig][Emacs configuration]].
+Much like that configuration, this will likely not suit your
+needs. Here are some of the changes that might be useful to
+you if you're just getting started with your configuration:
+  + A keybinding is only useful if you can remember it. I
+    have many repeated keybindings to keep things symmetric.
+  + The one-shot-layers (OSL) for control and alt act as
+    sticky keys and have been particularly helpful in emacs.
+  + Switching the symbols layer to a OSL was useful - I
+    rarely want to use more than one symbol before going
+    back to letters. The exception is the number pad, which
+    I moved to a different layer.
+  + Having a Teensy reset button in software is really nice.
+    I would highly recommend it so you don't have to keep a
+    paperclip around to press the physical button.
 
-* Some things that are overdue for change
-  + It's not clear that I use the thumbpad shift keys ever.
-  + The RH symbol layout doesn't make sense
-  + The OSL 4 button on layer 0 should be a toggle
+* Some things that I'd like to change about this layout
+  + The LH symbol layer is intuitive for me. The RH layer is really not.
+  + It's not clear that the arrow keys are useful in their
+    current placement. Same goes for the top middle Del and
+    Bksp
+
 
 
