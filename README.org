@@ -3,7 +3,8 @@ configuration. While I have used QMK, I've moved my entire
 configuration over to the [[http:configure.ergodox-ez.com/keyboard_layouts/new][ergodox-ez configurator]].
 
 * Versions
-  + [[https://configure.ergodox-ez.com/layouts/OEed/latest/6][v1.96]] (Current)
+  + [[https://configure.ergodox-ez.com/ergodox-ez/layouts/5WPYX/latest/3][v2.00]] (Current, modified with QMK)
+  + [[https://configure.ergodox-ez.com/layouts/OEed/latest/6][v1.96]]
   + [[https://configure.ergodox-ez.com/layouts/Kg79/latest/5][v1.95]]
   + [[https://configure.ergodox-ez.com/keyboard_layouts/kgllar/edit][v1.50]]
   + [[http://configure.ergodox-ez.com/keyboard_layouts/qjwgpe/edit][v1.45]]
@@ -19,8 +20,6 @@ needs. Here are some of the changes that might be useful to
 you if you're just getting started with your configuration:
   + A keybinding is only useful if you can remember it. I
     have many repeated keybindings to keep things symmetric.
-  + The one-shot-layers (OSL) for control and alt act as
-    sticky keys and have been particularly helpful in emacs.
   + Switching the symbols layer to a OSL was useful - I
     rarely want to use more than one symbol before going
     back to letters. The exception is the number pad, which
