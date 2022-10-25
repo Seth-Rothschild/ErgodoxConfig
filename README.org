@@ -3,7 +3,8 @@ configuration. While I have used QMK, I've moved my entire
 configuration over to the [[http:configure.ergodox-ez.com/keyboard_layouts/new][ergodox-ez configurator]].
 
 * Versions
-  + [[https://configure.ergodox-ez.com/ergodox-ez/layouts/5WPYX/latest/3][v2.00]] (Current, modified with QMK)
+  + [[https://configure.zsa.io/ergodox-ez/layouts/p7XRW/latest/0][v2.05]] (Current)
+  + [[https://configure.ergodox-ez.com/ergodox-ez/layouts/5WPYX/latest/3][v2.00]]
   + [[https://configure.ergodox-ez.com/layouts/OEed/latest/6][v1.96]]
   + [[https://configure.ergodox-ez.com/layouts/Kg79/latest/5][v1.95]]
   + [[https://configure.ergodox-ez.com/keyboard_layouts/kgllar/edit][v1.50]]
